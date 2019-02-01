@@ -65,7 +65,7 @@ sort(arr , m+1, r);
 } 
 
 	public static void main(String[] args) {
-		int arr[] = {12, 11, 13, 5, 6, 7,88}; 
+		int arr[] = {12, 11, 13, 5, 6, 7,88,8}; 
 		
 		System.out.println("Given Array"); 
 		printArray(arr); 
